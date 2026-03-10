@@ -1,0 +1,7 @@
+project_name       = "assessment1"
+environment        = "dev"
+aws_region         = "us-east-1"
+instance_type      = "t3.micro"
+ami_id             = "ami-03f4878755434977f"
+vpc_id             = "vpc-0947355fd06928247"
+private_subnet_ids = ["subnet-02e1d7bd326825a14", "subnet-05bb7cedd0a5bd02b"]
